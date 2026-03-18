@@ -20,7 +20,7 @@ cada passo da jornada no @oluis_resolve.
 ## Conecte-se comigo
 
 - Instagram: [@oluis_resolve](https://instagram.com/oluis_resolve)
-- LinkedIn: [Luís Guilherme](https://linkedin.com/in/luisguilhermedamasceno)
+- LinkedIn: [Luís Guilherme](https://linkedin.com/in/luisguilhermedamascenoalbuquerque)
 - Portfólio: [beacons.ai/oluis_resolve](https://beacons.ai/oluis_resolve)
 
 ---
