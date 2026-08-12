@@ -1,4 +1,4 @@
-# Olá, eu sou o Luis 👋
+# Olá, eu sou o Luís 👋
 
 Analista de Dados em formação e Freelancer em Automação com IA.
 Estou construindo projetos reais do zero e documentando
@@ -11,7 +11,7 @@ cada passo da jornada no @oluis_resolve.
 - Scripts de automação com Python e IA
 - Projetos em constante evolução
 
-## Tecnologias em aprendizado
+## Evolução nas ferramentas
 
 ![SQL](https://img.shields.io/badge/SQL-0D7377?style=flat&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-0D7377?style=flat&logoColor=white)
